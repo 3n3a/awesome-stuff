@@ -19,6 +19,11 @@ Webapp to install locally or run in a browser, that supports KeyPass Databases.
 
 [KeeWeb](https://keeweb.info/)
 
+## Cyberchef
+Great Webapp developped by the GCHQ, the british NSA. With it one can decode, encode and do all kinds of other cool stuff.
+
+[Cyberchef](https://gchq.github.io/CyberChef/)
+
 # Pastebins
 [Source](https://github.com/awesome-selfhosted/awesome-selfhosted#pastebins)
 
