@@ -4,7 +4,7 @@
 
 - [Google Arts and Culture](https://artsandculture.google.com/)
 - [Rijksmuseum.nl](https://www.rijksmuseum.nl/en/rijksstudio)
-    - they have an API at: [https://rijksmuseum.github.io](rijksmuseum.github.io)
+    - they have an API at: [https://rijksmuseum.github.io](https://rijksmuseum.github.io)
 
 ### Download from above sites
 
