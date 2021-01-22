@@ -6,5 +6,7 @@ just some awesome stuff I found while scouring the internet
 - [Awesome 👨‍💻 WebDev](./webdev)
 - [Awesome 🖼 Art](./art)
 
-- [Star this on Github](https://github.com/3n3a/awesome-stuff) | [My Github Profile](https://github.com/3n3a)
-- [My Website](https://3n3a.ch)
+---
+
+[Star this on Github](https://github.com/3n3a/awesome-stuff) | [My Github Profile](https://github.com/3n3a)
+[My Website](https://3n3a.ch) | [My Github Projects](https://gh.enea.software)
