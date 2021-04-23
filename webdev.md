@@ -34,3 +34,8 @@
 - [Unsplash Source](https://source.unsplash.com/)
 - [Placeholder](https://placeholder.com/)
 - [Model Placholder](https://generated.photos/faces)
+
+## Cleaners / Converters
+
+- [HTML Cleaner](https://jheppert.github.io/html-cleaner/)
+- [HTMLto Markdown Converter](https://domchristie.github.io/turndown/)
