@@ -5,6 +5,7 @@ just some awesome stuff I found while scouring the internet
 - [Awesome 🕸 Websites](./websites)
 - [Awesome 👨‍💻 WebDev](./webdev)
 - [Awesome 🖼 Art](./art)
+- [Awesome 🍎Apple](./apple)
 
 ---
 
